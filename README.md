@@ -1,5 +1,6 @@
 # JetBrains Academy Projects
 My JetBrains Academy's proyects.
+[![CodeFactor](https://www.codefactor.io/repository/github/juligame/jetbrainsacademy/badge)](https://www.codefactor.io/repository/github/juligame/jetbrainsacademy)
 
 ## chucknorris
 [Chuck Norris Cipher Encoder](https://hyperskill.org/projects/300?track=3)
